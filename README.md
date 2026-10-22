@@ -25,5 +25,5 @@ Power BI (Service) | Excel | DAX | Data Visualization
 
 ---
 
-📊 **Created by:** Jordan Hamlette | Flowhere LLC  
+📊 **Created by:** Jordan Hamlette 
 
